@@ -13,8 +13,7 @@ Código feito em Portugol Studio, que tem a função de informar se o usuário �
 ## Executando o código
 
 Deve-se abrir o portugol, ir até a opção de abrir um arquivo. Após o código abrir, simplesmente é necessário executar o código, podendo ser feito clicando no botão ou pelo atalho Shift + F6.
-Mencione as ferramentas que você usou para criar seu projeto
-.
+
 
 
 ##  Autores
